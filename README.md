@@ -4,11 +4,7 @@
 
 # Template para TCC - Repositório Oficial
 
-Este repositório serve como modelo (template) para organização e versionamento do Trabalho de Conclusão de Curso. Utilize esta estrutura para manter seu projeto organizado e facilitar o acompanhamento do orientador.
-
-## Sobre este Template
-
-Este template foi desenvolvido para padronizar a organização dos TCCs das turmas de Desenvolvimento de Sistemas. 
+Este repositório foi feito para a organização e versionamento do Trabalho de Conclusão de Curso. Utilize esta estrutura para manter nosso projeto organizado e facilitar o acompanhamento dos orientadores.
 
 ### Disciplina: Trabalho de Conclusão de Curso
 Semestre: 2026/1
@@ -19,10 +15,7 @@ Semestre: 2026/1
 - [@marcelnt](https://github.com/marcelnt)
 - [@yurikomuta](https://github.com/yurikomuta)
 
-
-
-### Documentação
-
+### Estrutura do repositório
 ├── 📂 docs              
 │   └── 📄 proposta.pptx    
 │   └── 📄 wireframes.md  
@@ -31,14 +24,12 @@ Semestre: 2026/1
 │   └── 📄 apresentação_prévia.pptx     #apresentação prévia    
 │   └── 📄 apresentação.pptx            #apresentação final
 
-
 ├── 📂 code
 │   └── 📂 banco   
 │   └── 📂 backend   
 │   └── 📂 frontend  
 │   └── 📂 mobile   
 │   └── 📂 tests
-
 
 ├── 📂 referências              
 │   └── 📄 bibliografia.bib
@@ -52,9 +43,9 @@ Exemplo: git commit -m `Adiciona introdução com contexto do problema`
 
 ## Authors
 
-- [@Aluno1](https://www.github.com/octokatherine)
-- [@Aluno2](https://www.github.com/octokatherine)
-- [@Aluno3](https://www.github.com/octokatherine)
-- [@Aluno4](https://www.github.com/octokatherine)
-- [@Aluno5](https://www.github.com/octokatherine)
+- [@Gabryel](https://github.com/GabryelFillipe)
+- [@João Victor](https://github.com/JoaoMoraes28)
+- [@Luana](https://github.com/Luana598)
+- [@Pedro](https://github.com/ghpedro16)
+- [@Rebeca](https://github.com/rebeca0605)
 

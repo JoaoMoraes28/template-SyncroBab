@@ -42,7 +42,7 @@ Commits pequenos e frequentes.
 Exemplo: git commit -m `Adiciona introdução com contexto do problema`
 
 ## Prototipagem
-- Baixa e alta fidelidade: https://www.figma.com/design/F9S5MZVJ0q9ruXaMv4MlFI/SyncroBaby-Novo?node-id=0-1&p=f&t=c1iRzuBJzFTjRVRh-0
+- [Baixa e alta fidelidade](https://www.figma.com/design/F9S5MZVJ0q9ruXaMv4MlFI/SyncroBaby-Novo?node-id=0-1&p=f&t=c1iRzuBJzFTjRVRh-0)
 
 ## Authors
 
